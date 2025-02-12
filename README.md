@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmanuxTheDeveloper 
 - 👀 I’m interested in learning, creating, building and innovating. 
 - 🌱 I’m currently learning Javascript, React, flutter, C++, and python.
-- 💞️ I’m looking to collaborate on backend development, Ai, data science and ML, complex integration.
+- 💞️ I’m looking forward to explore more of javascript and it's libraries collaborate on backend development, Ai, data science and ML, complex software development integration.
 - 📫 Reach me at emmanuelabidoye2021@gmail.com and contact at +2348162807117.
 - 😄 Pronouns: I
 - ⚡ Fun fact:
