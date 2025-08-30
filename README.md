@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @EmanuxTheDeveloper 
-- 👀 I’m interested in learning, creating, building and innovating. 
+- 👋 Hi, I’m @EmanuxTheDeveloper
+- im a software developer, always interested in providing a very efficient front-end for any application.
+-  👀 I’m interested in learning, creating, building and innovating. 
 - 🌱 I’m currently learning Javascript, React, flutter, C++, and python.
 - 💞️ I’m looking forward to explore more of javascript and it's libraries collaborate on backend development, Ai, data science and ML, complex software development integration.
 - 📫 Reach me at emmanuelabidoye2021@gmail.com and contact at +2348162807117.
